@@ -1,6 +1,6 @@
-# MB85RC FRAM Arduino Driver
+# MB85RC FRAM AVR Driver
 
-C++ driver for Fujitsu MB85RC FRAM device on Arduino. FRAM (Ferroelectric RAM) is an incredibly fast and resilent non-volatile memory that can be used to store data for a long time.
+C++ driver for Fujitsu MB85RC FRAM device on AVR. FRAM (Ferroelectric RAM) is an incredibly fast and resilent non-volatile memory that can be used to store data for a long time.
 
 ## Requirements
 - Fujitsu MB85RC series FRAM chip
